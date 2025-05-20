@@ -1,4 +1,4 @@
 first line 
  second line from new_branch
- thid line from conflict_branch 
+ third line from conflict_branch 
  
