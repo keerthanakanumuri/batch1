@@ -1,3 +1,18 @@
-
+first line 
  second line from new_branch
  thid line from conflict_branch 
+ git add sample.txt
+git rm --cached sample.txt
+git status
+ git commit -m "created sample.txt
+ git log 
+ git config --global user.email "keerthanakanumuri@gmail.com"
+git config --global user.name "keerthanakanumuri"
+git config --list
+git init
+git branch
+git branch new_branch
+git checkout new_branch
+ git switch master
+ git checkout -b del_branch
+ git checkout master
